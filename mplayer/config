@@ -1,0 +1,17 @@
+#vo="gl"
+vo="gl_tiled"
+#vo=vdpau,gl_tiled,
+#vc=ffh264vdpau,ffmpeg12vdpau,ffvc1vdpau,
+#ao="jack"
+ao="pulse"
+#ao="alsa"
+stop-xscreensaver="yes"
+mixer-channel="Master"
+nojoystick="yes"
+nolirc="yes"
+input="file=/home/slayer/.mplayer/mplinput"
+channels=8
+lavdopts=threads=4
+use-filename-title=yes
+#heartbeat-cmd="xscreensaver-command -deactivate &"
+stop-xscreensaver="yes"
