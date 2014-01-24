@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "vo_fullscreen 1" > ~/.mplayer/mplinput

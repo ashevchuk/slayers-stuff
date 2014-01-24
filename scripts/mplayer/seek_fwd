@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "seek +10" > ~/.mplayer/mplinput

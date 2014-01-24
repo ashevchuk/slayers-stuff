@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "pt_step -1" > ~/.mplayer/mplinput
