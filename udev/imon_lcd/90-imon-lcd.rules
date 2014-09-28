@@ -1,0 +1,1 @@
+SUBSYSTEM=="usbmisc", SUBSYSTEMS=="usb", ATTRS{idVendor}=="15c2", ATTRS{idProduct}=="ffdc", SYMLINK+="imon_lcd"
